@@ -1,0 +1,58 @@
+body{
+    text-align: center;
+    background-color: rgb(202, 242, 244);
+}
+
+fieldset{
+    background-color: rgb(250, 243, 243);
+    margin-left: 415px;
+    margin-right: 250px;
+    box-shadow: 2px 2px 2px rgb(61, 88, 89);
+    border: 1px solid black;
+    width: 35%;
+    height: auto;
+    text-align: left;
+}
+
+#name{
+    width: 100%;
+    box-sizing: border-box;
+}
+
+#email{
+    width: 100%;
+    box-sizing: border-box;
+}
+
+#number{
+    width: 100%;
+    box-sizing: border-box;
+}
+
+#message{
+    resize:none;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+#how{
+    width: 100%;
+    box-sizing: border-box;
+}
+
+li{
+    list-style-type: none;
+}
+
+.clear{
+    margin-left: 65%;
+}
+
+.clear:hover{
+    background-color: rgb(239, 237, 202);
+}
+
+.submit{
+    background-color: blue;
+    margin-left: 86%;
+}
